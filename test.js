@@ -6,4 +6,4 @@ function proclaim(status = 'not ready...', repeat = 1) {
   
   proclaim();
   proclaim('ready?');
-  proclaim('ready!', 3);
+  proclaim('ready!', 4);
